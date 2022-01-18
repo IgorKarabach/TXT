@@ -1,0 +1,4 @@
+name Karabach_Igor_Andreevich,
+age 33,
+number_of_pets 0,
+future_desired_salary 2000
